@@ -4,4 +4,4 @@ Resolução do desafio proposto pela plataforma Frontend Mentor com o intuito de
 <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db" target="_blank">Desafio<a/>
 <br/>
 <br/>
-<a href="https://wiliammelo-notificationpage.netlify.app/">Solução<a/>
+<a href="https://wiliammelo-advice-generator.netlify.app/">Solução<a/>
